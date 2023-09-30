@@ -2,6 +2,7 @@ import Rodape from "./components/Rodape";
 import Lista from "./components/Lista";
 import { Outlet } from "react-router-dom";
 import styles from "./App.module.css";
+import './App.css';
 
 export default function App() {
   return (
